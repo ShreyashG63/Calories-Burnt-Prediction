@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+jinja2
+scikit-learn
+python-multipart
+email-validator
+numpy
